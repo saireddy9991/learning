@@ -1,4 +1,4 @@
-a=20
+m=20
 b=30
-c=a*b
+c=m*b
 print(c)
